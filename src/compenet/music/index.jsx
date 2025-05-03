@@ -3,15 +3,7 @@ import React from "react";
 export default function Music() {
   return (
     <div>
-      <iframe
-        src="https://open.spotify.com/embed/track/0ROj512WvJ1eqeELd7MEdJ?utm_source=generator"
-        width="100%"
-        height="90"
-        frameBorder="0"
-        allowFullScreen=""
-        allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
-        loading="lazy"
-      ></iframe>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/6PMHUmM_hP0?si=qAMUPdAGKpO8hOi5&amp;start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
   );
 }
