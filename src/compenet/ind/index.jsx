@@ -64,7 +64,7 @@ export default function Indo() {
       </div>
       
       <div className="text-center flex flex-col items-center gap-8 ">
-        <div className="flex gap-5 h-[700px] overflow-hidden rounded-lg">
+        <div className="flex gap-5 h-[1600px] overflow-hidden rounded-lg">
           <div className="flex flex-col gap-2">
             <Image
               className="rounded-xl"
@@ -115,7 +115,7 @@ export default function Indo() {
               />
             </div>
           </div>
-          <div>
+          <div className="flex flex-col gap-8">
             <Image
               className="rounded-xl"
               src="/1.jpg"
@@ -199,12 +199,12 @@ export default function Indo() {
         </div>
         <div className="bg-white p-8 rounded-lg mx-5 lg:mx-80">
           <h2 className="text-xl font-semibold">
-            Time That Has Passed Since We First Met on September 28, 2024
+            Time That Has Passed Since We First Met on Januari 25, 2023
           </h2>
           <p className="text-lg ">{elapsed}</p>
 
           <p className="mt-10 text-justify">
-            Since the first time we met on September 28, 2024, Entah pagi siang,
+            Since the first time we met on Januari 25, 2023, Entah pagi siang,
             atau malam saat pesan ini tiba, semoga hatimu tenang dan langkahmu
             tetap dalam lindungan kasih semesta. lewat pesan ini, aku pamit. Aku
             melangkah pergi dari tempat yang dulu kusebut pulang, dan kunci yang
@@ -239,8 +239,9 @@ export default function Indo() {
             hidupmu, untuk cinta barumu, untuk semua hal yang indah di depan
             sana. Dengan segala rasa yang pernah tumbuh dan kini perlahan
             kulepaskan. Terimakasih sudah menyempatkan waktu untuk membaca ini.
-            Salam, Hanifah Cho”
-            {"<3"}
+            <br></br><br></br>Salam, 
+            <br></br>Hanifah Cho”
+        
           </p>
         </div>
       </div>
