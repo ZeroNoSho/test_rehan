@@ -35,11 +35,17 @@ export default function Indo() {
           Kunci yang kembali
         </h2>
         <div>
-          <h2 className="text-md">Untuk: prahersa Putra Kautsar AD </h2>
-          <h2 className="text-md">Dari: Hanifah cho </h2>
+          <h2 className="text-md">Untuk: Prahersa Putra Alkautsar AD
+          </h2>
+          <h2 className="text-md"> </h2>
         </div>
       </div>
-
+      <div className="flex flex-col gap-2 bg-white py-2 px-10 rounded-full">
+        <p className="flex items-center gap-2">
+          
+          “PLAY MUSIC BEFORE SCROLL”
+        </p>
+      </div>
       <Music />
 
       <div className="flex flex-col gap-2 bg-white py-2 px-10 rounded-full">
